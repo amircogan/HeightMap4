@@ -1,0 +1,50 @@
+// file format:
+// each line is a pallete set composed of a list of colors
+//
+// white
+255,255,255
+//
+// yellow
+254,225,00
+//
+// light blue
+57,190,255
+//
+// pink
+255,72,254
+//
+// purple
+255,00,254
+//
+// turquize
+64,224,228
+//
+// orange
+255,87,00
+//
+// peach
+215,218,185
+//
+// yellow green
+154,205,50
+//
+// red
+255,00,00
+//
+// blue
+00,00,255
+//
+// green
+00,255,00
+//
+// brown
+106,60,24
+//
+// bordo
+165,43,42
+//
+// seina 
+160,82,45
+//
+// black
+00,00,00

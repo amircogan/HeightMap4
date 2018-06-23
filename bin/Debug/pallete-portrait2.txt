@@ -1,0 +1,13 @@
+// file format:
+// each line is a pallete set composed of a list of colors
+//
+// the first pallette is the highest, then last is the lowest
+// highest will show as black in the heightmap and lowest as white
+
+
+// background mostly light blue and white
+165,215,248     194,235,250     183,230,250     204,247,249     255,255,255
+
+
+//  yellow        pink             purpule                 orange          yellow-green      red                   green         brown        bordo         seina           black
+254,225,00   255,72,254   255,00,254           255,87,00     154,205,50        255,00,00        00,255,0   106,60,24   165,43,42   160,82,45   00,00,00

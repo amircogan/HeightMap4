@@ -1,0 +1,67 @@
+// file format:
+// each line is a pallete set composed of a list of colors
+//
+// the first pallette is the highest, thew last is the lowest
+// highest will show as black in the heightmap and lowest as white
+// background mostly light blue and white
+165,215,248 194,235,250 183,230,250 204,247,249
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
+//
+// black,    yellow     pink       purpule     turqize   orange    peach      yellow-green  red     blue      green    brown     bordo     seina     black
+255,255,255 254,225,00 255,72,254 255,00,254 64,224,228 255,87,00 215,218,185 154,205,50 255,00,00 00,00,255 00,255,0 106,60,24 165,43,42 160,82,45 00,00,00
+//
